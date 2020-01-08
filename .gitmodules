@@ -1,0 +1,3 @@
+[submodule "ClassicalControl/RaceCar"]
+	path = ClassicalControl/RaceCar
+	url = https://github.com/ucsdarclab/RaceCar
